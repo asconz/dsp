@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I intend to practice and grow comfortable with vim as I think this will make me most productive in the long run. I will also use nano in the meantime for its simplicity. 
 
 --
 
@@ -89,6 +89,6 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I have experience developing in PyCharm and plan to continue to do so. I'm a fan of its extensive customizability and compatability with tools I've integrated such as Git, Anaconda environments, and MySQL. 'Ctrl+Space' is a useful keyboard shortcut for code completion. 
 
- 
+>> I also use Atom and Notepad++ from time to time, depending on my needs.
